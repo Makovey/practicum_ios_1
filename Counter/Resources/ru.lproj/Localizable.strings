@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Counter
+
+  Created by MAKOVEY Vladislav on 25.07.2023.
+  
+*/
+
+"log_start" = "История изменений:";
+"log_value_changed_minus" = "значение изменено на -1";
+"log_value_changed_plus" = "значение изменено на +1";
+"log_reset" = "значение сброшено";
+"log_value_changed_failure" = "попытка уменьшить значение счётчика ниже 0";
